@@ -1,7 +1,7 @@
 List materi kuliah
 1. Pengenalan R
-2. Visualisasi Data R
-3. Exprolasi Data dan Uji Statistik 
+2. Pengantar Statistik dan Visualisasi Data R
+3. Pengantar Statistik dan Exprolasi Data
 4. Praproses Data
 5. Klasifikasi ID3, C45, C50
 6. Klasifikasi Naive Bayes
