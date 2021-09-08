@@ -38,6 +38,7 @@ hitung_huruf <- function(nilai_akhir) {
 # ALGORITMA
 # - input dataset 
 df <- read.csv("D:/Bahan Ajar Big Data/dataset/dataset_hitung_nilai.csv")
+View(df)
 
 # - inputan dataset dilakukan modifikasi tipe data
 # karena kolom nim dibaca numeric. Sementara kolom nim tidak dilakukan operasi penjumlahan

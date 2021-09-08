@@ -36,12 +36,12 @@ print(my_str)
 # Tipe data di bahasa R masih banyak lagi. Namun 3 tipe data tersebut sudah cukup
 #   untuk mewakili proses pembelajaran hingga UTS
 
-# - logical
+# - logical / boolean
 my_logical <- TRUE
 print(my_logical)
 class(my_logical)
 
-# - character
+# - character / String
 my_string <- "Aryajaya Alamsyah"
 print(my_string)
 class(my_string)
@@ -123,7 +123,9 @@ while(i < 5){
 # - Array 1 Dimensi
 # input
 arr_1 <- matrix(c(1,2,3,4), nrow=4, ncol=1, byrow=TRUE)
+arr_1
 arr_2 <- matrix(c(5,6,7,8), nrow=4, ncol=1, byrow=TRUE)
+arr_2
 
 # proses
 arr_3 <- arr_1 + arr_2
@@ -136,6 +138,7 @@ print(arr_3)
 # input
 arr_1 <- matrix(c(1,2,3,4), nrow=2, ncol=2, byrow=TRUE)
 arr_2 <- matrix(c(5,6,7,8), nrow=2, ncol=2, byrow=TRUE)
+arr_2
 
 # proses
 arr_3 <- arr_1 + arr_2
