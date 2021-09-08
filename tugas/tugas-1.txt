@@ -64,8 +64,10 @@ Nomor 2. Hitung IPK.
 		- visualisasi histogram dari IPK. untuk melihat sebaran IPK seluruh mahasiwa
 		- visualisasi diagram batang dengan 2 kategori. Amat Baik dan Baik 
 			Berapa banyak mahasiswa yang mendapat IPK diatas 3 (Amat Baik) dan 2.75 - 2.99 (Baik).
-		- berupa file csv
-		ex. NIM		IP smstr 1 		smstr 2 	smstr 3 	IPK
-			x		x				x			x			x
-			x		x				x			x			x
-			x		x				x			x			x
+		- berupa file csv. ex
+		NIM		IPsmstr1	IPsmstr2	IPsmstr3	IPK
+		x		x			x			x			x
+		x		x			x			x			x
+		x		x			x			x			x
+			
+			
